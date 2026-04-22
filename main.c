@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int a;
-	printf("%d\n",a);
+	int b;
+	printf("%d\n",b);
 	return 0;
 }
